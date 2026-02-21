@@ -1,0 +1,15 @@
+.title6{
+   text-align: center; 
+   margin: 0%;
+}
+li{
+    list-style-type: decimal;
+    font-weight: bold;
+    
+}
+.item6{
+    background: linear-gradient(#0f3443,#34e69f);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+}

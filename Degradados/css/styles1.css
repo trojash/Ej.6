@@ -1,0 +1,27 @@
+.title1{
+   text-align: center; 
+   margin: 0%;
+}
+li{
+    list-style-type: decimal;
+    font-weight: bold;
+    
+}
+.item1{
+    background: linear-gradient(#789f0c,#ffe100);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+}
+.btn1,a{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.btn1:hover{
+    background-color: rgb(red, green, blue);
+}
